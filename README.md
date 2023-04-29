@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dariia-grigoreva) 
-[![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/zla_ya)
+[![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/DariiaGrigoreva)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
